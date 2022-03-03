@@ -1,0 +1,2 @@
+# Leapture_Rwanda_week3_library_work
+Why do we use Python libraries? Image result for python libraries definition Python Libraries are a set of useful functions that eliminate the need for writing codes from scratch. There are over 137,000 python libraries present today. Python libraries play a vital role in developing machine learning, data science, data visualization, image and data manipulation applications, and more.
